@@ -49,3 +49,15 @@ body {
 	color: #fe858c;
 	font-family: Josefin Sans, sans-serif;
 }
+
+#réseaux {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 32px;
+	color: pink;
+	font-size: 40px;
+}
+
+i {
+	color: pink;
+}
